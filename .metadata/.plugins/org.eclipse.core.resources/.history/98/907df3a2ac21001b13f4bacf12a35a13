@@ -1,0 +1,11 @@
+package exam.member.service;
+
+public class MemberDeleteServiceImpl implements MemberDeleteService{
+
+	@Override
+	public void MemberDelete(String email) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

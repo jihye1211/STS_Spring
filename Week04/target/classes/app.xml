@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="tv" class="useSpring.SamsungTV">
+	<constructor-arg ref="apple"></constructor-arg>
+	<!-- 위에 문구 지우면 Tv라는 객체를 그냥 만든다는 것을 의미함 -->
+	<constructor-arg value="400000"></constructor-arg>
+</bean>
+<bean id="sony" class="useSpring.SonySpeaker"></bean>
+<bean id="baewha" class="useSpring.BaewhaSpeaker"></bean>
+<bean id="apple" class="useSpring.AppleSpeaker"></bean>
+</beans>
+

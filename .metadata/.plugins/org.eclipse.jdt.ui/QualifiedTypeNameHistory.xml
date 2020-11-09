@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="polymorphism2.SamsungTV"/>
+<fullyQualifiedTypeName name="useSpring.SonySpeaker"/>
+<fullyQualifiedTypeName name="useSpring.Speaker"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="org.springframework.test.annotation.Repeat"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.hibernate.cache.internal.RegionFactoryInitiator"/>
+<fullyQualifiedTypeName name="exam.member.service.AlreadyExistingMemberException"/>
+<fullyQualifiedTypeName name="exam.member.vo.RegisterRequest"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberRegisterServiceImpl"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberRegisterService"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberListPrinterServiceImpl"/>
+<fullyQualifiedTypeName name="exam.member.ui.AlreadyExistingMemberException"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="exam.member.dao.MemberDao"/>
+<fullyQualifiedTypeName name="exam.member.vo.MemberVo"/>
+<fullyQualifiedTypeName name="org.hibernate.mapping.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberListPrinterService"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberPrinterService"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberPrinterServiceImpl"/>
+<fullyQualifiedTypeName name="exam.member.dao.MemberDaoImpl"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberDeleteServiceImpl"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="exam.member.ui.MemberUI"/>
+<fullyQualifiedTypeName name="org.apache.taglibs.standard.tag.common.core.RemoveTag"/>
+<fullyQualifiedTypeName name="exam.member.service.MemberDeleteService"/>
+</qualifiedTypeNameHistroy>

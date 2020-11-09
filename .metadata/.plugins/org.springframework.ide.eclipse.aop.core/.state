@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Day01"/>
+<aop-project name="MemberSpringDIExam"/>
+<aop-project name="Week03"/>
+<aop-project name="Week04"/>
+<aop-project name="Week05"/>
+<aop-project name="Week06"/>
+</aop-reference-model>

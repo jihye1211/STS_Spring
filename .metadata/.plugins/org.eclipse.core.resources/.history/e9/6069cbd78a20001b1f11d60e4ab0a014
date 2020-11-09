@@ -1,0 +1,6 @@
+package exam.member.service;
+
+public interface MemberDeleteService {
+	public void memberDelete(String email);
+
+}
