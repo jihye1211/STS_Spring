@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="Day01"/>
+<aop-project name="Week067"/>
 <aop-project name="MemberSpringDIExam"/>
 <aop-project name="Week03"/>
 <aop-project name="Week04"/>
 <aop-project name="Week05"/>
 <aop-project name="Week06"/>
+<aop-project name="Week09"/>
+<aop-project name="Week11"/>
+<aop-project name="Project"/>
+<aop-project name="Project(리스트부분)"/>
 </aop-reference-model>

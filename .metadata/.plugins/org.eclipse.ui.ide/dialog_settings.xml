@@ -122,8 +122,20 @@
 		<item value="1138" key="DIALOG_X_ORIGIN"/>
 		<item value="255" key="DIALOG_Y_ORIGIN"/>
 	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Code\Project(리스트부분)"/>
+			<item value="D:\Code\Project"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
 	<section name="ResourceNavigator">
-		<item value="" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="Aggregate for window 1599765093563" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
 	</section>
 	<section name="NewWizardAction">
